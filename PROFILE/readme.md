@@ -1,48 +1,73 @@
-# 🧪 Iniciação Científica – ATOM Project
+# 🧪 Scientific Research – ATOM Project
 
-Bem-vindo à organização oficial do **ATOM Project**, uma iniciativa de Iniciação Científica dedicada ao desenvolvimento de um sistema mecatronico com visão computacional.
+Welcome to the official repository of the **ATOM Project**, a scientific research initiative dedicated to building a computer vision-based mechatronic system.
 
 <p align="center">
-  <img src="/PROFILE/ATOM_PROJECT_LOGO.png" alt="Logo ATOM Project" width="200">
+  <img src="/PROFILE/ATOM_PROJECT_LOGO.png" alt="ATOM Project Logo" width="200">
 </p>
 
 ---
 
-## 🔍 Visão Geral
+## 🔍 Project Overview
 
-O **ATOM Project** é uma iniciativa de pesquisa científica voltada ao desenvolvimento de um braço robótico funcional, construído com tecnologia de impressão 3D e controlado por visão computacional. Idealizado pelo estudante de Ciência da Computação Enzo R. L. D. Ribas e implementado com seu grupo de pesquisa, o projeto visa integrar conhecimentos interdisciplinares nas áreas de mecânica, eletrônica e programação, promovendo tanto o aprendizado prático quanto a inovação social.
+The **ATOM Project** aims to develop a functional robotic arm using 3D printing technology and controlled through computer vision. The project is **inspired by the open-source [InMoov Project](http://www.inmoov.fr/)**, created by Gaël Langevin, and adapts its components to serve academic and experimental goals.
 
-A proposta central é desenvolver um protótipo que possa ser operado por meio de uma câmera, utilizando inteligência computacional para interpretar comandos visuais e traduzi-los em movimentos precisos dos servo motores que compõem a estrutura robótica. Para isso, são utilizados sensores, uma placa Arduino e algoritmos desenvolvidos com a biblioteca OpenCV.
+Designed and led by Computer Science student **Enzo R. L. D. Ribas**, this project integrates knowledge across mechanics, electronics, and software engineering. It offers a hands-on learning experience while fostering innovation in automation and assistive technology.
 
-O projeto se destaca por seu potencial de aplicação em ambientes de acessibilidade e automação, oferecendo uma base sólida para futuras pesquisas acadêmicas e avanços tecnológicos. Além disso, proporciona aos participantes uma experiência imersiva em todas as etapas de desenvolvimento, desde a modelagem e montagem mecânica até os testes finais de funcionamento.
+The robotic arm prototype is operated via a camera system, which interprets visual cues using artificial intelligence. These inputs are then translated into precise movements controlled by servo motors. The system uses:
 
----
+- **OpenCV** for computer vision and gesture tracking  
+- **Arduino** for servo motor control  
+- **3D-printed parts** based on STL files, adapted from InMoov's modular designs  
 
-## 🚀 Tecnologias Utilizadas
-
-- Arduino
-- Python
-- Modelagem 3D (STL.)
-- Impressão 3D
-- Git e Github
+The project serves as a foundation for further academic research and has the potential to evolve into assistive technologies or smart automation tools.
 
 ---
 
-## 📜 Licença
+## 🚀 Technologies Used
 
-Este projeto é **exclusivo para fins acadêmicos** e de **uso restrito**. Todas as contribuições seguem os princípios de ética, privacidade e responsabilidade social.
+- **Arduino UNO**  
+- **Python 3**  
+- **OpenCV (Computer Vision)**  
+- **3D Modeling (STL format)**  
+- **3D Printing (FDM)**  
+- **Git & GitHub for version control**
 
 ---
 
-## 🤝 Contribuindo
+## 📚 Learning Goals
 
-Caso deseje contribuir, siga as [Diretrizes de Contribuição](CONTRIBUTING.md) e abra um Pull Request com uma breve descrição da sua proposta.
+- Develop and apply knowledge in computer vision and robotics  
+- Work with open-source mechanical designs (InMoov)  
+- Build skills in teamwork, prototyping, and iterative development  
+- Explore practical use cases in automation and accessibility
 
 ---
 
-## 📬 Contato
+## 📜 License
 
-Dúvidas, sugestões ou propostas de parceria acadêmica?  
-Entre em contato com o coordenador do projeto:  
-**Enzo Rocha Leite Diniz Ribas** – [LinkedIn](https://www.linkedin.com/in/enzoribas)
+This project is intended **solely for academic purposes** and is **not for commercial use**.  
+All content and contributions must adhere to ethical, privacy, and social responsibility standards.
 
+---
+
+## 🤝 How to Contribute
+
+We welcome collaboration! If you're interested in contributing:
+
+1. Fork this repository  
+2. Follow our [Contribution Guidelines](CONTRIBUTING.md)  
+3. Submit a Pull Request with a clear description of your changes
+
+---
+
+## 📬 Contact
+
+For questions, suggestions, or academic collaborations:  
+**Enzo Rocha Leite Diniz Ribas**  
+[LinkedIn Profile](https://www.linkedin.com/in/enzoribas)
+
+---
+
+> _“Technology should serve people—and learning should be its driving force.”_  
+> — ATOM Project Team
