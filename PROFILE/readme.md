@@ -65,7 +65,7 @@ We welcome collaboration! If you're interested in contributing:
 
 For questions, suggestions, or academic collaborations:  
 **Enzo Rocha Leite Diniz Ribas**  
-[LinkedIn Profile](https://www.linkedin.com/in/enzoribas)
+[LinkedIn Profile](https://www.linkedin.com/in/oenzoribas)
 
 ---
 
